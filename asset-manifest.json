@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/CovidTracker.git/static/css/main.f6747676.chunk.css",
+    "main.js": "/CovidTracker.git/static/js/main.db679bab.chunk.js",
+    "main.js.map": "/CovidTracker.git/static/js/main.db679bab.chunk.js.map",
+    "runtime-main.js": "/CovidTracker.git/static/js/runtime-main.944d1471.js",
+    "runtime-main.js.map": "/CovidTracker.git/static/js/runtime-main.944d1471.js.map",
+    "static/js/2.6b019359.chunk.js": "/CovidTracker.git/static/js/2.6b019359.chunk.js",
+    "static/js/2.6b019359.chunk.js.map": "/CovidTracker.git/static/js/2.6b019359.chunk.js.map",
+    "index.html": "/CovidTracker.git/index.html",
+    "precache-manifest.1f38489425bab8719867b3bd310daee7.js": "/CovidTracker.git/precache-manifest.1f38489425bab8719867b3bd310daee7.js",
+    "service-worker.js": "/CovidTracker.git/service-worker.js",
+    "static/css/main.f6747676.chunk.css.map": "/CovidTracker.git/static/css/main.f6747676.chunk.css.map",
+    "static/js/2.6b019359.chunk.js.LICENSE.txt": "/CovidTracker.git/static/js/2.6b019359.chunk.js.LICENSE.txt",
+    "static/media/image.png": "/CovidTracker.git/static/media/image.d7265326.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.944d1471.js",
+    "static/js/2.6b019359.chunk.js",
+    "static/css/main.f6747676.chunk.css",
+    "static/js/main.db679bab.chunk.js"
+  ]
+}
